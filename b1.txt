@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this file is modified to check branching 
 first comment !
+=======
+the new change in slave2
+>>>>>>> slave2
